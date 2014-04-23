@@ -66,4 +66,3 @@ require_once(dirname(__FILE__)."/top-rated-products-faq.php");
 require_once(dirname(__FILE__)."/top-rated-products-tutorial.php");
 require_once(dirname(__FILE__)."/top-rated-products-widget.php");
 require_once(dirname(__FILE__)."/top-rated-products-metabox.php");
-?>
