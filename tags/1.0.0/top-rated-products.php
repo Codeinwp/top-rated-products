@@ -3,7 +3,7 @@
 Plugin Name: Top Rated Products
 Plugin URI: http://www.readythemes.com/plugins
 Description: Display featured products in your sidebar.
-Version: 1.0.1
+Version: 1.0
 Author: Ready Themes
 Author URI: http://www.readythemes.com
 License: GPLv2 or later
